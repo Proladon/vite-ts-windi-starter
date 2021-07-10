@@ -51,7 +51,7 @@ export default defineComponent({
 })
 </script>
 
-<style scoped>
+<style scoped lang="postcss">
 a {
   color: #42b983;
 }
