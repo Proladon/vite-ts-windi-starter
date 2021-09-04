@@ -1,6 +1,6 @@
 # Installation
 ```
-$ npx degit Proladon/vite-ts-windi-boilerplate <your new project name>
+$ npx degit Proladon/vite-ts-windi-starter <your new project name>
 ```
 ---
 
